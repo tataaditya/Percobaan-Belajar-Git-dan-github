@@ -3,6 +3,7 @@ Rencana Fitur Duitku
 1. Jauh lebih ringan
   * Menghilangkan buttleneck
    ^ Vue
+   ^ React
 2. Membuat password
   * Password untuk user
    ^ Laravel
