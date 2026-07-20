@@ -2,6 +2,8 @@ Rencana Fitur Duitku
 
 1. Jauh lebih ringan
   * Menghilangkan buttleneck
+    ^ Angular
+    ^ React
 2. Membuat password
   * Password untuk user
-3. Keamanan data
+3. SQL Database
